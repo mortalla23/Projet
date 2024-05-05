@@ -9,8 +9,8 @@
 
 ## Description du projet 
  
-- L'utilisateur a la possibilité de rechercher à partir du numéro de departement ou de l'INSEE de la localité
-- Elle verra toutes les caracteristiques de l'IRVE correspondant (voire lien ci-dessous)
+- L'utilisateur a la possibilité de rechercher à partir du numéro de departement ou du code INSEE de la localité
+- L'utilisateur verra toutes les caracteristiques de l'IRVE correspondant (voire lien ci-dessous)
   
 ---https://www.data.gouv.fr/fr/datasets/fichier-exemple-stations-de-recharge-de-vehicules-electriques/
 
